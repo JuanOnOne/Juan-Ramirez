@@ -30,6 +30,9 @@ sections:
         - name: PostGreSQL
           icon: database
           icon_pack: fas
+        - name: AWS
+          icon: aws
+          icon_pack: fab
   - block: experience
     content:
       title: Experience
