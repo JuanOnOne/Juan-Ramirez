@@ -15,6 +15,12 @@ sections:
     content:
       title: Skills
       items:
+        - name: Linux
+          icon: linux
+          icon_pack: fab
+        - name: git
+          icon: git
+          icon_pack: fab
         - name: Python
           icon: python
           icon_pack: fab
