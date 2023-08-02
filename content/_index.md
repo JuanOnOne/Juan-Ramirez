@@ -21,6 +21,9 @@ sections:
         - name: Statistics
           icon: chart-line
           icon_pack: fas
+        - name: PostGreSQL
+          icon: database
+          icon_pack: fas
   - block: experience
     content:
       title: Experience
